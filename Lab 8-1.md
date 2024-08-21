@@ -85,6 +85,12 @@ while(1)
 build, flash และ run โปรแกรม
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
+![image](https://github.com/user-attachments/assets/43302fe5-7291-49e2-99e6-4e5292ce4211)
+![image](https://github.com/user-attachments/assets/c585c0b1-0e38-408e-ae8d-4e2d4b3c4ebf)
+![image](https://github.com/user-attachments/assets/6ca28cd8-9b3d-4cb7-8173-6bc06834cb7b)
+![image](https://github.com/user-attachments/assets/a8727852-6939-40de-afed-6c1429ee249b)
+![image](https://github.com/user-attachments/assets/f713cbce-8488-4704-98d4-222a0ca309c7)
+![image](https://github.com/user-attachments/assets/a591c78e-a8bf-4eb6-a0ca-27008771097d)
 
 
 1.1.6 แก้ไขไฟล์ main.cpp เป็นดังนี้
@@ -116,4 +122,18 @@ extern "C" void app_main(void)
 build, flash และ run โปรแกรม
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
+![image](https://github.com/user-attachments/assets/8c2af013-a77b-4892-ac36-70714d14b335)
+
+![image](https://github.com/user-attachments/assets/ca87b9c4-4bea-4606-9530-c7d738a32346)
+
+![image](https://github.com/user-attachments/assets/97c02421-f6f8-4851-a735-68abba927445)
+
+![image](https://github.com/user-attachments/assets/80aaf8f9-03a5-4074-b0a5-aa4a95157f41)
+
+
+
+
+
+
+
 
